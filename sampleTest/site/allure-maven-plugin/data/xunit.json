@@ -1,0 +1,49 @@
+{
+  "time" : {
+    "start" : 1539223527141,
+    "stop" : 1539223627438,
+    "duration" : 100297
+  },
+  "testSuites" : [ {
+    "uid" : "77dd14c4339d5597",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1539223527141,
+      "stop" : 1539223627438,
+      "duration" : 100297
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "dc22163c8f19a9f7",
+      "name" : "TEST1[public void com.teksys.executer.RegressionJob.TEST1(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]",
+      "title" : "TEST 1 [public void com.teksys.executer.RegressionJob.TEST1(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]",
+      "time" : {
+        "start" : 1539223527141,
+        "stop" : 1539223602160,
+        "duration" : 75019
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "3a8f316f6a0b587",
+      "name" : "TEST2[public void com.teksys.executer.RegressionJob.TEST2(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]",
+      "title" : "TEST 2 [public void com.teksys.executer.RegressionJob.TEST2(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]",
+      "time" : {
+        "start" : 1539223608699,
+        "stop" : 1539223627438,
+        "duration" : 18739
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

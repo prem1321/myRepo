@@ -1,0 +1,1 @@
+{"uuid":"f50eff6d-6217-42ee-a374-a2482303d605","name":"com.teksys.executer.RegressionJob.CloseBrowser","description":"","start":1539223627525,"stop":1539223633025,"children":["bdad7f60-e194-4e5c-9980-7a8ab002c825"],"afters":[{"name":"CloseBrowser","status":"passed","stage":"finished","description":"","start":1539223627525,"stop":1539223633025}]}
